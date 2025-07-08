@@ -10,22 +10,30 @@ I'm a data enthusiast focused on uncovering insights and presenting them through
 
 ---
 
-## 📁 Current Project
+## 📁 Case Studies
 
 ### 🏥 Healthcare Efficiency Analysis (HealthStat)
 
-- **Description:** This case study explores hospital efficiency using real-world healthcare data. The goal was to analyze patient length of stay (LOS), cost per discharge, and other factors to help a consulting firm (HealthStat) identify patterns and make data-informed recommendations.
-- **Tools Used:** Power BI, DAX, Filters, Card Visuals, Slicers, Drilldowns
-- **Key Skills Demonstrated:** Data modeling, calculated measures, dashboard storytelling
+- **Folder:** `Analyzing Healthcare Data/`
+- **Notebook:** [`HealthStat_Case_Study.ipynb`](Analyzing%20Healthcare%20Data/HealthStat_Case_Study.ipynb)
 - **Live Report:** [View Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiMTA3M2FkNzQtMjdmMy00ZGJmLTlhYjgtNGRhN2FiYzNhNmEwIiwidCI6IjlhYWU1Yjg3LTU4NDQtNDAzMS04MGEyLWVhZDE0NjNlNzNiNiIsImMiOjN9)
-- **Case Study Notebook:** [`HealthStat_Case_Study.ipynb`](HealthStat_Case_Study.ipynb)
+- **Description:** This case study explores hospital efficiency using real-world healthcare data. The goal was to analyze patient length of stay (LOS), cost per discharge, and other factors to help a consulting firm (HealthStat) identify patterns and make data-informed recommendations.
+- **Skills:** DAX calculations, data modeling, visual storytelling, multi-page dashboards
+
+---
+
+### 🛍️ Ecommerce Analysis (Whiskique)
+
+- **Folder:** `Ecommerce Analysis/`
+- **Notebook:** [`Ecommerce_Case_Study.ipynb`](Ecommerce%20Analysis/Ecommerce_Case_Study.ipynb)
+- **Description:** This case study analyzes the sales performance, customer behavior, and shipping cost optimization for an online pet supply business. It includes what-if scenarios for shipping costs and explores key product and customer insights.
+- **Skills:** Power Query data cleanup, what-if parameters, KPI visuals, profitability and cross-sell analysis
 
 ---
 
 ## 🚀 Upcoming Projects
 
 - 🔄 Supply Chain Analytics  
-- 🛍️ Ecommerce Analysis  
 - 📦 Inventory Analysis  
 - 🏦 Mortgage Trading Analysis  
 
