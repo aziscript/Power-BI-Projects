@@ -31,9 +31,25 @@ I'm a data enthusiast focused on uncovering insights and presenting them through
 
 ---
 
+### 🚚 Supply Chain Analytics
+
+- **Folder:** `Supply Chain Analytics/`
+- **Notebook:** [`SupplyChain_Case_Study.ipynb`](Supply%20Chain%20Analytics/SupplyChain_Case_Study.ipynb)
+- **Business Context:**  
+  Tenate Industries frequently evaluates whether to **manufacture components internally** or **purchase them from suppliers**. This decision is influenced by:
+  - Quoted supplier prices (Unit Cost + NRE)  
+  - Internal manufacturing capabilities and capacity  
+  - Capital investment requirements  
+  - Volume-based cost changes  
+  - Quality-related costs (based on yield rates)
+
+  Traditional spreadsheets couldn’t efficiently handle this complexity. I was tasked with building a Power BI solution to enable dynamic scenario planning.
+- **Skills:** DAX modeling, what-if analysis, cost modeling, decision support dashboard
+
+---
+
 ## 🚀 Upcoming Projects
 
-- 🔄 Supply Chain Analytics  
 - 📦 Inventory Analysis  
 - 🏦 Mortgage Trading Analysis  
 
